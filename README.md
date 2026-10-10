@@ -13,7 +13,7 @@
 
 <br>
 
-I'm an Information Technology and Digital Innovation Engineer and the CEO of **LESSSO**. I build websites designed with AI and powered by AI, monitor security environments with **Wazuh**, and run **authorized penetration tests** to find weaknesses before attackers do.
+I'm an Information Technology and Digital Innovation Engineer and the CEO of **LESSSO**. I *build* websites, *monitor* security environments, and *penetration tests* (authorized).
 
 <img src="assets/divider.svg" width="100%" alt="">
 
