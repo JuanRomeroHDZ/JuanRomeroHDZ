@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://lessso.com"><img src="assets/badges/website.svg" alt="Website" height="36"></a>
+<a href="https://lessso.com"><img src="assets/badges/website.svg" alt="Website: lessso.com" height="36"></a>
 <a href="mailto:contacto@lessso.com"><img src="assets/badges/email.svg" alt="Email: contacto@lessso.com" height="36"></a>
 <a href="https://www.linkedin.com/in/juanromerohdz/"><img src="assets/badges/linkedin-personal.svg" alt="Juan Romero on LinkedIn" height="36"></a>
 <a href="https://www.linkedin.com/company/lessso/"><img src="assets/badges/linkedin-company.svg" alt="LESSSO on LinkedIn" height="36"></a>
