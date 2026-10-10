@@ -106,7 +106,7 @@ When you publish something, replace the paragraph above with a table like this:
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [repo-name](https://github.com/YOUR_GITHUB_USERNAME/repo-name) | One-line description | Wazuh |
+| [repo-name](https://github.com/JuanRomeroHDZ/MIXTLI) | One-line description | Wazuh |
 -->
 
 <h2><img src="assets/icons/chart.svg" width="26" height="26" align="absmiddle" alt=""> GitHub activity</h2>
