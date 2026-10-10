@@ -111,15 +111,15 @@ When you publish something, replace the paragraph above with a table like this:
 
 <h2><img src="assets/icons/chart.svg" width="26" height="26" align="absmiddle" alt=""> GitHub activity</h2>
 
-<!-- Replace YOUR_GITHUB_USERNAME below (3 places) with your GitHub username. -->
+<!-- Replace JuanRomeroHDZ below (3 places) with your GitHub username. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=2BA687&icon_color=2BA687&text_color=C9D1D9&ring_color=A63A55">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanRomeroHDZ&show_icons=true&hide_border=true&bg_color=00000000&title_color=2BA687&icon_color=2BA687&text_color=C9D1D9&ring_color=A63A55">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JuanRomeroHDZ&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F8A70&icon_color=1F8A70&text_color=1F2937&ring_color=6B1E32" height="170">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=2BA687&text_color=C9D1D9">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=1F8A70&text_color=1F2937" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRomeroHDZ&layout=compact&hide_border=true&bg_color=00000000&title_color=2BA687&text_color=C9D1D9">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRomeroHDZ&layout=compact&hide_border=true&bg_color=00000000&title_color=1F8A70&text_color=1F2937" height="170">
   </picture>
 </p>
 
