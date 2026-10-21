@@ -22,11 +22,6 @@ I'm an Information Technology and Digital Innovation Engineer and the CEO of **L
 <table>
   <tr>
     <td valign="top" width="33%">
-      <img src="assets/icons/web.svg" width="30" height="30" alt=""><br>
-      <b>AI-powered web</b><br><br>
-      Websites designed and built with AI assistance, and sites that integrate AI features such as assistants and automation. I pick the model and tools that best fit each project.
-    </td>
-    <td valign="top" width="33%">
       <img src="assets/icons/shield.svg" width="30" height="30" alt=""><br>
       <b>Security monitoring with Wazuh</b><br><br>
       Monitoring tailored to each organization through custom detection rules, so the alerts you receive match your environment and your risks.
