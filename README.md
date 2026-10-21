@@ -23,13 +23,11 @@ I'm an Information Technology and Digital Innovation Engineer and the CEO of **L
   <tr>
     <td valign="top" width="33%">
       <img src="assets/icons/shield.svg" width="30" height="30" alt=""><br>
-      <b>Security monitoring with Wazuh</b><br><br>
-      Monitoring tailored to each organization through custom detection rules, so the alerts you receive match your environment and your risks.
+      <b>Security Monitoring</b><br><br>
     </td>
     <td valign="top" width="33%">
       <img src="assets/icons/target.svg" width="30" height="30" alt=""><br>
-      <b>Penetration testing</b><br><br>
-      Authorized security assessments that uncover real weaknesses, delivered with clear findings and practical remediation guidance.
+      <b>Penetration Testing</b><br><br>
     </td>
   </tr>
 </table>
