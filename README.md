@@ -17,7 +17,6 @@ I'm an Information Technology and Digital Innovation Engineer and the CEO of **L
 
 <img src="assets/divider.svg" width="100%" alt="">
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
   <br><br>
   <sub>LESSSO · Web &amp; AI · Security Monitoring · Penetration Testing</sub>
 </div>
